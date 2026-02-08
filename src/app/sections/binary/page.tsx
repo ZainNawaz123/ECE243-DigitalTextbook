@@ -809,7 +809,7 @@ main ()
           <div className="sticky top-8 space-y-4">
             <div className="rounded-2xl border border-neutral-800 bg-neutral-900/40 p-5">
               <h3 className="text-sm font-semibold text-neutral-100">
-                Quick Nav
+                Section Outline
               </h3>
               <ul className="mt-3 space-y-2 text-sm text-neutral-300">
                 <li><a className="hover:text-white" href="#bits">Bits → 2^N</a></li>
